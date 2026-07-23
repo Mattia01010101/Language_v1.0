@@ -1,4 +1,4 @@
-# Language_v1.0
+# Diamond_v1.0
 this project is is no way near its end, after all it's a language i developed on top of assembly.
 requiremenets:
   as for now i only create a linux version.
