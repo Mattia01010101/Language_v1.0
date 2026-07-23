@@ -6,6 +6,9 @@ requiremenets:
 how to run:
   Diamond ...(put the path of ur file here) also put the path of where diamond is or it won't run unless you make it a global cmd
 
+how to use:
+  create a file with the extension .dia and look at the pic i uploaded to show you
+
 v1.0X features:
   negative numbers handling, not for variables yet.
   input_Int which works like this:
