@@ -1,0 +1,11 @@
+print .This is the first test for this language.{/}
+print .let's add x and y together{/}
+int x=100
+int y=34
+addp [x],[y]{/}
+printv .x: [x] and y: [y] work!{/}
+subp [x],[y]{/}
+mulp [x],[y]{/}
+divp [x],[y]{/}
+input_int[age] .How old are you?: 
+printv .[age]{/}
