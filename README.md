@@ -1,4 +1,4 @@
-# Language_v1.0
+# Language_v1.0X
 this project is is no way near its end, after all it's a language i developed on top of assembly.
 requiremenets:
   as for now i only create a linux version.
@@ -6,7 +6,13 @@ requiremenets:
 how to run:
   Diamond ...(put the path of ur file here) also put the path of where diamond is or it won't run unless you make it a global cmd
 
-commands 7/22/26:
+v1.0X features:
+  negative numbers handling, not for variables yet.
+  input_Int which works like this:
+  input_int[variable] .Message so for example
+  the name u put in the brackets creates a variable with that name and value entered afterwards. as for now it doesn't overwrite existing variables.
+  
+commands 7/23/26:
 addp num1,num2 (NO SPACES after the ',')
 subp num1,num2
 divp num1,num2
@@ -25,6 +31,10 @@ printv .X equals: [x]{/}
 to declare variables 
 only int types implemented yet
 int x=40 (no spaces)
+
+ input_Int which works like this:
+  input_int[variable] .Message so for example
+  the name u put in the brackets creates a variable with that name and value entered afterwards. as for now it doesn't overwrite existing variables.
 
 have fun, updates will come soon!
 reusing this code for something else without permission is NOT allowed
